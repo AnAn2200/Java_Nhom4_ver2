@@ -1,6 +1,7 @@
 # Java_Nhom4_ver2
 
-Hướng dẫn sử dụng:
+Hướng dẫn sử dụng: 
++ Dùng Netbeans để chạy
 + Packgae GiaoVien:
    - DangNhapForm: Tài khoản: admin/ Mật khẩu: 123456
    - KhoaHocForm:
