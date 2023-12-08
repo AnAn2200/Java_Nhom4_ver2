@@ -11,7 +11,7 @@ Hướng dẫn sử dụng:
      * Sửa theo tên đề tài
      * Chọn nhóm để xóa
      * Chưa tạo được nhóm
-     * Chưa tìm được nhóm do chưa tạo đuọc
+     * Chưa tìm được nhóm do chưa tạo nhóm
 + Package SinhVien:
   - Tài khoản: 123/ Mật khẩu: abc123
   - Tìm theo tên môn học
