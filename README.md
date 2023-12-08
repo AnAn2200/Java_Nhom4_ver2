@@ -8,10 +8,10 @@ Hướng dẫn sử dụng:
      * Tìm theo mã môn hoặc tên môn.
      * Chọn mã lớp hoặc mã môn để xem lớp học.
    - LopHocForm:
-     *Sửa theo tên đề tài
-     *Chọn nhóm để xóa
-     *Chưa tạo được nhóm
-     *Chưa tìm được nhóm do chưa tạo đuọc
+     * Sửa theo tên đề tài
+     * Chọn nhóm để xóa
+     * Chưa tạo được nhóm
+     * Chưa tìm được nhóm do chưa tạo đuọc
 + Package SinhVien:
   - Tài khoản: 123/ Mật khẩu: abc123
   - Tìm theo tên môn học
